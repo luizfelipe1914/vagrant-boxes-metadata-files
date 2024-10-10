@@ -8,8 +8,8 @@
         {
           "name": "virtualbox",
           "url": "https://app.vagrantup.com/luizfelipe1914/boxes/RockyLinux9/versions/1.0/providers/virtualbox/amd64/vagrant.box",
-          "checksum_type": "md5",
-          "checksum": "46019C9E566CF94F572E2744D8DE7A84",
+          "checksum_type": "sha256",
+          "checksum": "DD1945A818203AE5B6EA07B29AA8FA4B96C68ABFAC2803D08F824B2723A1B5BE",
           "architecture": "amd64",
           "default_architecture": true
         }
