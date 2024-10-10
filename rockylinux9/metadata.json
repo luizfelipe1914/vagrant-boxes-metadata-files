@@ -1,0 +1,19 @@
+{
+  "name": "luizfelipe1914/RockyLinux9",
+  "description": "This box contains Rocky Linux 9.4 in Minimal Installation.",
+  "versions": [
+    {
+      "version": "1.0",
+      "providers": [
+        {
+          "name": "virtualbox",
+          "url": "https://app.vagrantup.com/luizfelipe1914/boxes/RockyLinux9/versions/1.0/providers/virtualbox/amd64/vagrant.box",
+          "checksum_type": "md5",
+          "checksum": "46019C9E566CF94F572E2744D8DE7A84",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}
